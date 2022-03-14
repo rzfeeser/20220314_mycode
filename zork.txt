@@ -1,0 +1,8 @@
+West of House
+You are standing in an open field west of a white house, with a boarded front door.
+There is a small mailbox here.
+Open mailbox
+Opening the small mailbox reveals a leaflet.
+Read leaflet
+(leaflet taken)
+"WELCOME TO ALTA3 LABS!"
